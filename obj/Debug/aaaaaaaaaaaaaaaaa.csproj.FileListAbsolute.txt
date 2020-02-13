@@ -1,0 +1,6 @@
+C:\Users\etec\Desktop\aaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaa\bin\Debug\aaaaaaaaaaaaaaaaa.exe.config
+C:\Users\etec\Desktop\aaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaa\bin\Debug\aaaaaaaaaaaaaaaaa.exe
+C:\Users\etec\Desktop\aaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaa\bin\Debug\aaaaaaaaaaaaaaaaa.pdb
+C:\Users\etec\Desktop\aaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaa\obj\Debug\aaaaaaaaaaaaaaaaa.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\aaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaa\obj\Debug\aaaaaaaaaaaaaaaaa.exe
+C:\Users\etec\Desktop\aaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaa\obj\Debug\aaaaaaaaaaaaaaaaa.pdb
